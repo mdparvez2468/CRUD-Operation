@@ -6,7 +6,6 @@
 ## Code: 
 
 ````
-```
 
 <?php
 include "config.php";
@@ -56,5 +55,4 @@ while($row=mysqli_fetch_array($result)){
 </body>
 </html>
 
-```
 ````
