@@ -6,6 +6,11 @@
 ## Code: 
 
 ````
+details.php
+
+````
+
+````
 
 <?php
 include "config.php";
